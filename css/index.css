@@ -166,6 +166,9 @@ h1{
     left:50px;
     right:inherit;
   }
+  .b1{
+    display: none;
+  }
 }
 .block{
   display: block;
